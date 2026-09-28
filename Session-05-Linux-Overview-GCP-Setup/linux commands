@@ -1,0 +1,115 @@
+1  sudo -i
+    2  hostname
+    3  sudo -i
+    4  ssh bandit0@bandit.labs.overthewire.org -p 2220
+    5  ssh bandit1@bandit.labs.overthewire.org -p 2220
+    6  ssh bandit2@bandit.labs.overthewire.org -p 2220
+    7  ssh bandit1@bandit.labs.overthewire.org -p 2220
+    8  ssh bandit2@bandit.labs.overthewire.org -p 2220
+    9  ssh bandit3@bandit.labs.overthewire.org -p 2220
+   10  ssh bandit4@bandit.labs.overthewire.org -p 2220
+   11  sudo -i
+   12  wget https://www.wikipedia.org/
+   13  ls
+   14  cat index.html
+   15  docker ps
+   16  docker -v
+   17  docker run -ti -d -p 80:80 -v /root/technology:usr/share/nginx/html nginx
+   18  apt install docker.io
+   19  sudo apt install docker.io
+   20  sudo docker run -ti -d -p 80:80 -v /root/technology:usr/share/nginx/html nginx
+   21  ls
+   22  docker run -ti -d -p 80:80 -v /root/technology:/usr/share/nginx/html nginx
+   23  pwd
+   24  sudo docker run -ti -d -p 80:80 -v /root/technology:/usr/share/nginx/html nginx
+   25  wget https://www.wikipedia.org/
+   26  ls
+   27  sudo docker run -ti -d -p 80:80 -v /root/technology:usr/share/nginx/html nginx
+   28  sudo -i
+   29  ls
+   30  cp /path/to/index.html ~/technology/
+   31  sudo docker run -ti -d -p 80:80 -v /root/technology:/usr/share/nginx/html nginx
+   32  docker ps
+   33  sudo -i
+   34  ssh bandit.labs.overthewire.org
+   35  ssh bandit0@ bandit.labs.overthewire.org -p 2220
+   36  ssh bandit0@bandit.labs.overthewire.org -p 2220
+   37  ssh bandit1@bandit.labs.overthewire.org -p 2220
+   38  ssh bandit2@bandit.labs.overthewire.org -p 2220
+   39  ssh bandit3@bandit.labs.overthewire.org -p 2220
+   40  ssh bandit4@bandit.labs.overthewire.org -p 2220
+   41  ssh bandit5@bandit.labs.overthewire.org -p 2220
+   42  ssh bandit6@bandit.labs.overthewire.org -p 2220
+   43  ssh bandit4@bandit.labs.overthewire.org -p 2220
+   44  ssh bandit0@bandit.labs.overthewire.org -p 2220
+   45  ssh bandit1@bandit.labs.overthewire.org -p 2220
+   46  ssh bandit2@bandit.labs.overthewire.org -p 2220
+   47  ssh bandit3@bandit.labs.overthewire.org -p 2220
+   48  ssh bandit4@bandit.labs.overthewire.org -p 2220
+   49  ssh bandit5@bandit.labs.overthewire.org -p 2220
+   50  ssh bandit6@bandit.labs.overthewire.org -p 2220
+   51  ssh bandit7@bandit.labs.overthewire.org -p 2220
+   52  .
+   53  ssh bandit0@bandit.labs.overthewire.org -p 2220
+   54  ssh bandit1@bandit.labs.overthewire.org -p 2220
+   55  ssh bandit2@bandit.labs.overthewire.org -p 2220
+   56  ssh bandit3@bandit.labs.overthewire.org -p 2220
+   57  ssh bandit2@bandit.labs.overthewire.org -p 2220
+   58  ssh bandit3@bandit.labs.overthewire.org -p 2220
+   59  ssh bandit4@bandit.labs.overthewire.org -p 2220
+   60  ssh bandit5@bandit.labs.overthewire.org -p 2220
+   61  ssh bandit6@bandit.labs.overthewire.org -p 2220
+   62  ssh bandit7@bandit.labs.overthewire.org -p 2220
+   63  ssh bandit8@bandit.labs.overthewire.org -p 2220
+   64  ssh bandit9@bandit.labs.overthewire.org -p 2220
+   65  ssh bandit10@bandit.labs.overthewire.org -p 2220
+   66  ssh bandit11@bandit.labs.overthewire.org -p 2220
+   67  ssh bandit12@bandit.labs.overthewire.org -p 2220
+   68  sudo -i
+   69  sudo -i
+   70  ls
+   71  ssh-heygen
+   72  ssh-keygen
+   73  cd .ssh
+   74  ls
+   75  cd /tmp/
+   76  ls
+   77  mkdir ameen
+   78  ls
+   79  cd ameen
+   80  ls
+   81  touch ameenfile
+   82  ls
+   83  cat ameenfile
+   84  vi indra
+   85  head -10 indra
+   86  vi indra
+   87  head -10 indra
+   88  tail -10 indra
+   89  history
+   90  ls
+   91  cp indra gopal
+   92  ls
+   93  hostname
+   94  curl ipconfig.me
+   95  hostname -i
+   96  hostname -e
+   97  mv indra shashi
+   98  ls
+   99  curl ipconfig.me
+  100  history
+  101  uname
+  102  uname -a
+  103  ls
+  104  rm ameenfile
+  105  ls
+  106  man curl
+  107  whoami
+  108  ps
+  109  ps -aef
+  110  ps -aef | grep systemd
+  111  free
+  112  free -m
+  113  free -g
+  114  free -h
+  115  history
